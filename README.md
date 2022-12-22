@@ -23,7 +23,7 @@ python -m pip install pillow
 Convert image to .h file using
 
 ```
-python imgconvert.py -i image.png -n pic -o pic
+python imgconvert.py -i image.png -n pic -o pic.h
 ```
 
 
