@@ -16,7 +16,7 @@ The main and basically only needed component is [LILYGO® T5-4.7 inch E-Paper](h
 
 Use photo editor like Paint to make sure the photo is about correct size (960x540) and save it as a .png
 
-Make sure to have python istalled
+Make sure you have python installed
 
 Go to the scripts folder
 
