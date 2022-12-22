@@ -2,6 +2,8 @@
 
 E-paper and arduino tinkering project using https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
 
+<sub>NOTE: Original idea was to fetch new picture data from web but without a sd card I wasn't able to do this. Also the chip alone can only store about 4 pictures</sub>
+
 ## The project
 The goal of this project was to create a box and display a random image on the e-paper by opening the box
 
@@ -27,7 +29,10 @@ Convert image to .h file using
 ```
 python imgconvert.py -i image.png -n pic -o pic.h
 ```
+Add .h files to drawImages folder
 
+### ISSUE:
+The chip can store only about 4 pictures in .h files. MicroSD card module should be added to be able to store more pictures
 
 ## Building process
 
