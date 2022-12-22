@@ -5,6 +5,8 @@ E-paper and arduino tinkering project using https://github.com/Xinyuan-LilyGO/Li
 ## The project
 The goal of this project was to create a box and display a random image on the e-paper by opening the box
 
+![working project](https://github.com/hasub0b/lilygo-epd47-RandomImageBox/blob/main/project%20pictures/ezgif.com-gif-maker.gif)
+
 ## Components
 The main and basically only needed component is [LILYGO® T5-4.7 inch E-Paper](https://pages.github.com/](http://www.lilygo.cn/prod_view.aspx?TypeId=50061&Id=1384&FId=t3:50061:3)) as it includes the ESP32 MCU 
 
@@ -28,4 +30,7 @@ python imgconvert.py -i image.png -n pic -o pic.h
 
 
 ## Building process
+
+![Cicuit](https://github.com/hasub0b/lilygo-epd47-RandomImageBox/blob/main/project%20pictures/IMG_20221218_152951.jpg)
+
 Steps will be added in the future
