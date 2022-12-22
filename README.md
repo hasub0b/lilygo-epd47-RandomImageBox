@@ -2,10 +2,10 @@
 
 E-paper and arduino tinkering project using https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
 
-<sub>NOTE: Original idea was to fetch new picture data from web but without a sd card I wasn't able to do this. Also the chip alone can only store about 4 pictures</sub>
-
 ## The project
 The goal of this project was to create a box and display a random image on the e-paper by opening the box
+
+<sub>NOTE: Original idea was to fetch new picture data from web but without a sd card I wasn't able to do this. Also the chip alone can only store about 4 pictures</sub>
 
 ![working project](https://github.com/hasub0b/lilygo-epd47-RandomImageBox/blob/main/project%20pictures/ezgif.com-gif-maker.gif)
 
